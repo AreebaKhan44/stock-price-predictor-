@@ -1,2 +1,2 @@
 # stock-price-predictor-
-stoct price prediction
+stock price prediction
