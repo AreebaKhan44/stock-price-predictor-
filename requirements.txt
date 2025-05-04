@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+yfinance
+requests==2.28.2
+streamlit-lottie
